@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'rubocop'
+gem 'rubocop', git: 'https://github.com/bbatsov/rubocop.git'
